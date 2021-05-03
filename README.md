@@ -1,2 +1,2 @@
 # Jobag
-![screenshot.png](https://raw.github.com/{bdvela}/{Jobag}/{branch}/{path})
+![Landing Page](/path/to/screenshot.png)
